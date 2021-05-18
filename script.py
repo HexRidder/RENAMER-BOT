@@ -1,16 +1,11 @@
 class script(object):
 
 
-    START_TEXT = """** Hai {}** , 
+    START_TEXT = """**Hello ! {}** ,
 
-    I'm A Simple File Renamer Bot With Permanent Thumbnail support!💯
+This is a telegram rename pro bot which supports upload speed upto 21.5Mb/s... with ❤️ From Nexon Project's
 
-Send me any Telegram file and select rename option.
-
-Click /help for more details....
-
-You must subscribe our channel in order to use me😇**
-"""
+If you find any bugs or need a feature, report it at @NexonSupport**"""
 
     RENAME_403_ERR = "What Are You Doing? You are Banned"
 
@@ -34,36 +29,20 @@ You must subscribe our channel in order to use me😇**
 
     HELP_USER = """
 
-<b>It's not that complicated😅</b>
-    
-🌀 Send me a custom thumbnail (Optional) 
+**Hey its no complicated upto the hell 😂 
 
-🌀 Send the file to be renamed
+☇ Just send the image which u want to set as permenant thumbanil
 
-🌀 Choose appropriate option
+☇ Just Send Me a file and reply to it /rename (Name.extension) Extension is strictly Required
 
-🌀 Send the new file when bot asks 
+Made With Love From Nexon Project's ❤️  With [Hex Ridder](http://t.me/Hexrider) & [Hex Warrior](https://t.me/Xrealm_raider)**"""
 
+    ABOUT_TEXT = """**My Name : Renamer Pro Bot
 
-<b>U Must Join My Channel In Order To Use Me 😝</b>
-"""
+Library : [Pyrogram](www.pyrogram.com)
 
-    ABOUT_TEXT = """
+Language : [Python](Www.python.com) & [Java](www.java.com)
 
-**About Me**
+Creators : [Hex Ridder](http://t.me/Hexrider) & [Hex Warrior](http://t.me/Xrealm_raider)
 
-○ ᴍʏ ɴᴀᴍᴇ : Renam
-
-○ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ 
-
-○ ғʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏʀᴏɢʀᴀᴍ 
-
-○ sᴇʀᴠᴇʀ : ʜᴇʀᴏᴋᴜ 
-
-○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴛᴏᴜᴄʜ ʜᴇʀᴇ](https://github.com/Hillard-har/RENAMER-BOT) 
-
-○ ᴄʀᴇᴀᴛᴏʀ : [@Ts_Bots](https://t.me/ts_bots)
-
-**[©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs](https://t.me/Ts_bots)**
-
-"""
+Made With ❤️ From [Nexon Project's](http://t.me/NexonHex)**"""
